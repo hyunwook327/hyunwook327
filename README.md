@@ -46,3 +46,14 @@
 ![정보처리산업기사](https://img.shields.io/badge/정보처리산업기사-KR-blue)
 ![리눅스마스터2급](https://img.shields.io/badge/Linux_Master-2급-yellow)
 ![네트워크관리사2급](https://img.shields.io/badge/Network_Manager-2급-green)
+
+
+
+### 📂 Projects
+- [사내 서버 인프라 자동화 시스템](https://github.com/yourusername/project-infra)
+  - 중소기업용 서버 인프라 구축 및 자동화 운영
+  - Rocky Linux + Ansible + Docker
+- [PHP + MySQL 게시판](https://github.com/yourusername/project-board)
+  - 로그인, 게시판 CRUD 기능 구현
+  - Apache + MySQL + PHP
+
