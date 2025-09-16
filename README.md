@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" height="40" alt="Rocky Linux" />
   </a>
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
