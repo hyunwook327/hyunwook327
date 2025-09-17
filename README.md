@@ -36,7 +36,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   </a>
 </p>
+
 ---
+
 ### 📂 Projects
 
 - [리눅스 프로젝트](https://github.com/hyunwook327/project/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)  
