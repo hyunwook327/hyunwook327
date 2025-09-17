@@ -1,8 +1,14 @@
 ### 👋 Hi there! I'm KIM Hyunwook
 
 ### 📚 Certifications
-![RHCSA](https://img.shields.io/badge/RHCSA-RedHat-EE0000?logo=redhat&logoColor=white)
-![AWS DEA](https://img.shields.io/badge/AWS-DEA-232F3E?logo=amazonaws&logoColor=white)
+<p align="left">
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate" target="_blank">
+    <img src="https://images.credly.com/size/120x120/images/EXAMPLE/aws-dea.png" alt="AWS Certified Data Engineer - Associate" />
+  </a>
+  <a href="https://rhtapps.redhat.com/verify?certId=XXXX" target="_blank">
+    <img src="https://www.redhat.com/certification/rhcsa-badge.png" alt="RHCSA" height="120"/>
+  </a>
+</p>
 
 
 ### 🛠 Tech Stack
