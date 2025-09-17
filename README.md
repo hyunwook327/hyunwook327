@@ -1,17 +1,6 @@
 ### 👋 Hi there! I'm KIM Hyunwook
-
-### 📚 Certifications
-<p align="left">
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-data-engineer-associate" target="_blank">
-    <img src="https://images.credly.com/size/120x120/images/EXAMPLE/aws-dea.png" alt="AWS Certified Data Engineer - Associate" />
-  </a>
-  <a href="https://rhtapps.redhat.com/verify?certId=XXXX" target="_blank">
-    <img src="https://www.redhat.com/certification/rhcsa-badge.png" alt="RHCSA" height="120"/>
-  </a>
-</p>
-
-
-### 🛠 Tech Stack
+---
+### 🛠 Skill
 <p align="left">
   <a href="https://www.linux.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -47,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   </a>
 </p>
-
+---
 ### 📂 Projects
 
 - [리눅스 프로젝트](https://github.com/hyunwook327/project/blob/main/%EB%A6%AC%EB%88%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)  
