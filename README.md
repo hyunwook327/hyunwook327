@@ -1,4 +1,8 @@
-### 👋 Hi there! I'm Hyunwook,Kim
+### 👋 Hi there! I'm KIM Hyunwook
+
+### 📚 Certifications
+![RHCSA](https://img.shields.io/badge/RHCSA-RedHat-EE0000?logo=redhat&logoColor=white)
+![AWS DEA](https://img.shields.io/badge/AWS-DEA-232F3E?logo=amazonaws&logoColor=white)
 
 
 ### 🛠 Tech Stack
